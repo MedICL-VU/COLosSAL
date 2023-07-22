@@ -27,4 +27,7 @@ where
 * -m: Modality. ['ct' | 'mr']
 * -l: The number of labeled data. 
 * --RS_seed: The seed for random selection of training data.
-* -n: The name of the experiment. 
+* -n: The name of the experiment.
+
+### TODO
+* update readme with training w/ uncertainty/diversity-based selections
